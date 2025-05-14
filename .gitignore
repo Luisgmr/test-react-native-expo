@@ -35,3 +35,12 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/material_theme_project_new.xml
+/.idea/vcs.xml
+/test-react-native-expo.iml
+/.idea/discord.xml
+/nativewind-env.d.ts
+/.idea/.gitignore
+/.idea/git_toolbox_prj.xml
